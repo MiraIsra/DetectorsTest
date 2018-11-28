@@ -1,5 +1,5 @@
 # Detectors
-This is a sample to evaluate the diferent detectors parameters and see how it works to detect the points we want to detect. the program has been made with opencv and C++. The main goal are help people to find the optimal detector and parameters to detect what they want and show you how some detectors works implanted in opencv.
+This is a sample to evaluate the diferent detectors parameters and see how it works to detect characteristics points. The program has been made with opencv and C++. The main goal are help people to find the optimal detector and parameters to detect what they want and show you how some detectors works implanted in opencv.
 
 
 The program has to be executed by console, you might have to build before if you don't download the mounted program, you can download already built as well. To run the code you have to open the terminal and go to the download carpet (Detectores). Once there you will be able to execute the program (./Detectors image).
